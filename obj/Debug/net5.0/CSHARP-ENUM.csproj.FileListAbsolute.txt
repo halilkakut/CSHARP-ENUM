@@ -1,0 +1,16 @@
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\bin\Debug\net5.0\CSHARP-ENUM.exe
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\bin\Debug\net5.0\CSHARP-ENUM.deps.json
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\bin\Debug\net5.0\CSHARP-ENUM.runtimeconfig.json
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\bin\Debug\net5.0\CSHARP-ENUM.runtimeconfig.dev.json
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\bin\Debug\net5.0\CSHARP-ENUM.dll
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\bin\Debug\net5.0\ref\CSHARP-ENUM.dll
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\bin\Debug\net5.0\CSHARP-ENUM.pdb
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\obj\Debug\net5.0\CSHARP-ENUM.csproj.AssemblyReference.cache
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\obj\Debug\net5.0\CSHARP-ENUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\obj\Debug\net5.0\CSHARP-ENUM.AssemblyInfoInputs.cache
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\obj\Debug\net5.0\CSHARP-ENUM.AssemblyInfo.cs
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\obj\Debug\net5.0\CSHARP-ENUM.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\obj\Debug\net5.0\CSHARP-ENUM.dll
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\obj\Debug\net5.0\ref\CSHARP-ENUM.dll
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\obj\Debug\net5.0\CSHARP-ENUM.pdb
+C:\Users\halil\Desktop\Pratikler\CSHARP-ENUM\obj\Debug\net5.0\CSHARP-ENUM.genruntimeconfig.cache
